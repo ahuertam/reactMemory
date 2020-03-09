@@ -9,51 +9,47 @@ export const MockProvider = ({ children }) => {
     documentsDict: {
       '5e4d39175cd915000f27c6ea': {
         url:
-          'https://s3-eu-west-1.amazonaws.com/int.statics.gamelearn.io/gamelearn/resources/58f4bb3b191bb175b9e52405/image/5e4d39175cd915000f27c6ea/card_back.png',
+          'https://imgur.com/a7EDcwg',
       },
       '5e4d3a035cd915000f27c6ed': {
         url:
-          'https://s3-eu-west-1.amazonaws.com/int.statics.gamelearn.io/gamelearn/resources/58f4bb3b191bb175b9e52405/image/5e4d3a035cd915000f27c6ed/crescent-symbol.png',
+          'https://imgur.com/W7knvV2',
       },
       '5e4d3a145cd915000f27c6ee': {
         url:
-          'https://s3-eu-west-1.amazonaws.com/int.statics.gamelearn.io/gamelearn/resources/58f4bb3b191bb175b9e52405/image/5e4d3a145cd915000f27c6ee/diamond-symbol.png',
+          'https://imgur.com/Lw9uGI0',
       },
       '5e4d39c95cd915000f27c6eb': {
         url:
-          'https://s3-eu-west-1.amazonaws.com/int.statics.gamelearn.io/gamelearn/resources/58f4bb3b191bb175b9e52405/image/5e4d39c95cd915000f27c6eb/heart-symbol.png',
+          'https://imgur.com/yPCJ07F',
       },
       '5e4d39ea5cd915000f27c6ec': {
         url:
-          'https://s3-eu-west-1.amazonaws.com/int.statics.gamelearn.io/gamelearn/resources/58f4bb3b191bb175b9e52405/image/5e4d39ea5cd915000f27c6ec/square-symbol.png',
+          'https://imgur.com/DPMU60z',
       },
       '5e4d3a395cd915000f27c6ef': {
         url:
-          'https://s3-eu-west-1.amazonaws.com/int.statics.gamelearn.io/gamelearn/resources/58f4bb3b191bb175b9e52405/image/5e4d3a395cd915000f27c6ef/table_top.png',
+          'https://imgur.com/7zyk7bK',
       },
       '5e550ef0366c28000f563d79': {
         url:
-          'https://s3-eu-west-1.amazonaws.com/int.statics.gamelearn.io/gamelearn/resources/58f4bb3b191bb175b9e52405/image/5e550ef0366c28000f563d79/mushroom.jpg',
+          'https://imgur.com/swnA1cb',
       },
       '5e550f74366c28000f563d7a': {
         url:
-          'https://s3-eu-west-1.amazonaws.com/int.statics.gamelearn.io/gamelearn/resources/58f4bb3b191bb175b9e52405/image/5e550f74366c28000f563d7a/star.jpg',
+          'https://imgur.com/IxRFF0L',
       },
       '5e550f86366c28000f563d7b': {
         url:
-          'https://s3-eu-west-1.amazonaws.com/int.statics.gamelearn.io/gamelearn/resources/58f4bb3b191bb175b9e52405/image/5e550f86366c28000f563d7b/ace-of-spade.jpg',
+          'https://imgur.com/X7X3fel',
       },
       '5e550f98f861f3000f303e9e': {
         url:
-          'https://s3-eu-west-1.amazonaws.com/int.statics.gamelearn.io/gamelearn/resources/58f4bb3b191bb175b9e52405/image/5e550f98f861f3000f303e9e/flower.jpg',
+          'https://imgur.com/eEGa5FM',
       },
       '5e550fabf861f3000f303e9f': {
         url:
-          'https://s3-eu-west-1.amazonaws.com/int.statics.gamelearn.io/gamelearn/resources/58f4bb3b191bb175b9e52405/image/5e550fabf861f3000f303e9f/1up.jpg',
-      },
-      '5e55268c218b81000f42b57a': {
-        url:
-          'https://s3-eu-west-1.amazonaws.com/int.statics.gamelearn.io/gamelearn/resources/58f4bb3b191bb175b9e52405/image/5e55268c218b81000f42b57a/cosmos-bg-min.jpg',
+          'https://imgur.com/OxLqsBO',
       },
     },
     references: {
